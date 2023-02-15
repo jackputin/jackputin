@@ -11,7 +11,7 @@
 
 <p>
 <a href="https://github.com/AkioAlex0817/AkioAlex0817" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jamesrook&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="AkioAlex0817's GitHub Stats" height="220px"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jamesrookaaaa&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="AkioAlex0817's GitHub Stats" height="220px"/>
   </a></p>
 
 <!--
